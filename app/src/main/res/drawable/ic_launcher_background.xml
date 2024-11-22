@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Fondo circular -->
+    <path
+        android:fillColor="#F1C40F"
+        android:pathData="M54,0C24.2,0 0,24.2 0,54C0,83.8 24.2,108 54,108C83.8,108 108,83.8 108,54C108,24.2 83.8,0 54,0Z"/>
+    <!-- Cuchillo y tenedor -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,35L43,41L45,37L39,31L37,35Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M41,44L37,50L35,46L39,40L41,44Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M39,55L39,66L40,66L40,55L39,55Z"/>
+    <!-- Placa de la cocina -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M25,72L83,72L83,77L25,77L25,72Z"/>
+    <!-- Texto de "Gourmet" -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,84L76,84L76,82L32,82L32,84Z"/>
+</vector>
